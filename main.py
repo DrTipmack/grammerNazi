@@ -56,4 +56,4 @@ async def addToSpam(channel):
     asyncio.sleep(10)
     spamChannels.remove(channel) if channel in spamChannels else None
 
-client.run("NjM1MTAwNjY5NTIyNzM5MjEw.XasJlw.2mz_iZhEnE--D9KnyEgNMaGvR1A")
+client.run("")
