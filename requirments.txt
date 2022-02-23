@@ -1,0 +1,3 @@
+discord
+language_tool_python
+asyncio
